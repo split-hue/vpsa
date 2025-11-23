@@ -27,7 +27,7 @@ func povprecje(studenti map[int]Student, vpisnaStevilka int, stOcen int) float64
 ```
 ### Struktura
 ```
-naloga05/
+vpsa/
 │
 ├── go.mod
 ├── go.sum
